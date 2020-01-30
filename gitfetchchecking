@@ -1,1 +1,4 @@
 checking gitfetch with creating new file prev file info is not avail by git fetch cmd
+when we want to use git fetch need to use git rebase cmd also
+
+checking push cmd after changes in remote
